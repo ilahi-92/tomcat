@@ -7,7 +7,7 @@
     <!-- Group and Artifact ID uniquely identify your project -->
     <groupId>com.example</groupId>
     <artifactId>mywebapp</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1</version>
 
     <!-- Packaging type for a web application is 'war' -->
     <packaging>war</packaging>
