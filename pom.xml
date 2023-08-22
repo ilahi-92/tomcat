@@ -33,7 +33,7 @@
                 <version>3.3.2</version>
                 <configuration>
                     <!-- The web.xml file location -->
-                    <webXml>src/main/webapp/WEB-INF/web.xml</webXml>
+                    <webXml>mywebapp/WEB-INF/web.xml</webXml>
                 </configuration>
             </plugin>
         </plugins>
